@@ -1,5 +1,5 @@
 # Foreground/background segmentation
-## PR1 second largest representative factor
+## PR1: Second largest representative factor
 Original image (Target)
 
 ![Alt text](PR1/pic/cheetah.jpg "cheetah")
