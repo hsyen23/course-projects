@@ -11,3 +11,5 @@ Ground truth
 Result
 
 ![Alt text](PR1/pic/result.jpg "result")
+
+error rate = 18.16%
