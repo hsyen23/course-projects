@@ -14,9 +14,11 @@ Ground truth
 ## PR1: Second largest representative factor
 Use second largest fft coefficient as the feature to do segmentation.
 
-Result
+Result:
 
 ![Alt text](PR1/pic/result_error=0.1816.jpg "result_error=0.1816")
+
+Error rate: 0.1816
 
 ## PR3,4: 
 
