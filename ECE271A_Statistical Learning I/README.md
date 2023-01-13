@@ -15,7 +15,7 @@ Result
 
 ![Alt text](PR1/pic/result.jpg "result")
 
-## PR3: 
+## PR3,4: 
 
 Result
 ### x-axis: alpha y-axis: error
