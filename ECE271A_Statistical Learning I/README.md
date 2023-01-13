@@ -15,3 +15,12 @@ Result
 
 ![Alt text](PR1/pic/result.jpg "result")
 
+## PR3: 
+
+Result
+
+![Alt text](PR3/pic/HW3_comparision1.JPG "HW3_comparision1")
+
+![Alt text](PR3/pic/HW3_comparision2.JPG "HW3_comparision2")
+
+x axis: alpha, y axis: error
