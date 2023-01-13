@@ -1,4 +1,7 @@
 # Foreground/background segmentation
+Perform image segmentation via statistical learning. 
+
+Use fft coefficients as features to create gaussian distributions for background and foregound on training data. Then, classify pixels in target image by the distributions.
 
 Original image
 
@@ -9,7 +12,7 @@ Ground truth
 ![Alt text](PR1/pic/cheetah_mask.jpg "cheetah_mask")
 
 ## PR1: Second largest representative factor
-Use second largest fft coefficient as the indicator to do segmentation.
+Use second largest fft coefficient as the feature to do segmentation.
 
 Result
 
