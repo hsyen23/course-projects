@@ -35,13 +35,20 @@ Error rate: 0.094
 
 Error rate: 0.063
 
+## PR3,4: Bayesian estimation
+With prior knowledge, use bayesian parameters estimation to build classifier.
 
-## PR3,4: 
+Result:
 
-Result
-### x-axis: alpha y-axis: error
+![Alt text](PR3,4/pic/HW3_result_error=0.078.jpg "HW3_result_error=0.078")
 
-![Alt text](PR3,4/pic/HW3_comparision1.JPG "HW3_comparision1")
+Error rate: 0.078
 
-![Alt text](PR3,4/pic/HW3_comparision2.JPG "HW3_comparision2")
+## PR5: Expectation–maximization algorithm
+Design a classifier by a composition of multiple gaussian distribution, then run EM algorithm to make the model fit with our training data.
 
+Result:
+
+![Alt text](PR5/pic/EM_result_err=0.0564.jpg "EM_result_err=0.0564")
+
+Error rate: 0.0564
