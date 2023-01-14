@@ -36,7 +36,7 @@ Error rate: 0.094
 Error rate: 0.063
 
 ## PR3,4: Bayesian estimation
-With prior knowledge, use bayesian parameters estimation to build classifier.
+With prior knowledge, use bayesian parameters estimation to build the classifier.
 
 Result:
 
