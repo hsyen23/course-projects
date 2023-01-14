@@ -12,13 +12,17 @@ Ground truth
 ![Alt text](PR1/pic/cheetah_mask.jpg "cheetah_mask")
 
 ## PR1: Second largest representative factor
-Use second largest fft coefficient as the feature to do segmentation.
+Use second largest fft coefficient as the feature to do segmentation because the largest one is always DC signal.
 
 Result:
 
 ![Alt text](PR1/pic/result_error=0.1816.jpg "result_error=0.1816")
 
 Error rate: 0.1816
+
+## PR2: Multivariate features (64d and 8d)
+
+
 
 ## PR3,4: 
 
