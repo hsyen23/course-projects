@@ -21,7 +21,17 @@ Result:
 Error rate: 0.1816
 
 ## PR2: Multivariate features (64d and 8d)
+Use all fft coefficitents (64d) to build classifier, then select top eight representative coefficients (8d) to build classifier.
 
+64d result:
+![Alt text](PR2/pic/result_64d_error=0.094.jpg "result_64d_error=0.094")
+
+Error rate: 0.094
+
+8d result:
+![Alt text](PR2/pic/result_8d_error=0.063.jpg "result_8d_error=0.063")
+
+Error rate: 0.063
 
 
 ## PR3,4: 
