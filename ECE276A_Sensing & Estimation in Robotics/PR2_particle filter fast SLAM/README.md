@@ -20,13 +20,16 @@ ground truth:
 ![Alt text](pic/noiseless.png "GT")
 
 dead reckoning with noise:
+
 ![Alt text](pic/motion_withNoise_0.1_0.05.png "motion_withNoise")
 
 particle filter (3 particle):
+
 ![Alt text](pic/3PF.png "3PF")
 
 particle filter (50 particle):
+
 ![Alt text](pic/50PF.png "50PF")
 
 ### Note
-The accuracy highly depends on our scan-matching method. A finer scan-matching method such as ICP and loop-closure will enhance overall performance! 
+The accuracy highly depends on our scan-matching method. A finer scan-matching method such as ICP and loop-closure will enhance overall performance for fast SLAM! 
