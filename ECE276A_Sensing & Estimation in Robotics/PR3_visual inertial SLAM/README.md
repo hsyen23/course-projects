@@ -14,15 +14,23 @@ Perform SLAM with landmark mapping via EKF.
 
 dead reckoning:
 
-![Alt text](pic/pure motion prediction.png  "dead reckoning")
+![Alt text](pic/dead_reckoning.png "dead reckoning")
 
 SLAM based on 20% landmarks:
 
 ![Alt text](pic/pct_0.2.png  "pct_0.2")
 
+SLAM based on 40% landmarks:
+
+![Alt text](pic/pct_0.4.png  "pct_0.4")
+
 SLAM based on 60% landmarks:
 
 ![Alt text](pic/pct_0.6.png  "pct_0.6")
+
+SLAM based on 80% landmarks:
+
+![Alt text](pic/pct_0.8.png  "pct_0.8")
 
 SLAM based on 100% landmarks:
 
