@@ -1,5 +1,8 @@
 # Blue-bin detector via logistic regression
 Develop a blue-bin detector via logistic regression on color classification and morphological properties of detected blue regions.
+
+Report: shorturl.at/fH378
+
 ## Process
 1. identify blue region (color of recycling bin)
 
