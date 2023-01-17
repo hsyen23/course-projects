@@ -1,7 +1,7 @@
 # Visual-Interial SLAM
 Perform SLAM with landmark mapping via EKF.
 
-Report: shorturl.at/oLQRW
+[Report](https://github.com/hsyen23/course-projects/blob/main/ECE276A_Sensing%20%26%20Estimation%20in%20Robotics/PR3_visual%20inertial%20SLAM/A59010599_Yen_PR3.pdf)
 
 ## Process
 1. use ORB to extract landmarks from stereo camera.

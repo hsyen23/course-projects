@@ -1,7 +1,7 @@
 # Particle Filter Fast SLAM
 Perform fast SLAM based on particle filter.
 
-Report: shorturl.at/dqATX
+[Report](https://github.com/hsyen23/course-projects/blob/main/ECE276A_Sensing%20%26%20Estimation%20in%20Robotics/PR2_particle%20filter%20fast%20SLAM/A59010599_Yen_PR2.pdf)
 
 ## Process
 1. create particles to represent discretized distribution of robot's position.
