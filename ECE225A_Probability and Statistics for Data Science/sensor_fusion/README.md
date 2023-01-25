@@ -10,10 +10,10 @@ Explanation of algorithm is written in report pdf.
 # Example
 
 ## IMU trajectory
-![Alt text](/pic/imu_trajectory.png "imu_trajectory")
+![Alt text](./pic/imu_trajectory.png "imu_trajectory")
 
 ## Visual Odometry trajectory
-![Alt text](/pic/vio_trajectory.png "vio_trajectory")
+![Alt text](./pic/vio_trajectory.png "vio_trajectory")
 
 ## Sensor fusion (ekf)
-![Alt text](/pic/VIO+IMU.png "VIO+IMU")
+![Alt text](./pic/VIO+IMU.png "VIO+IMU")
