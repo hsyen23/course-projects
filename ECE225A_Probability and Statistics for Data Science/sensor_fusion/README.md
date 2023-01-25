@@ -6,6 +6,8 @@ Python version of robot_localization pkg in ROS.
 
 Explanation of algorithm is written in report pdf.
 
+[Report](https://github.com/hsyen23/course-projects/blob/main/ECE225A_Probability%20and%20Statistics%20for%20Data%20Science/sensor_fusion/ECE225_sensor_fusion_report.pdf)
+
 
 # Example
 
